@@ -62,4 +62,10 @@ This file doesnt exist be default and needs to be creted to add cofigs
 - `prefix h/v` to create horizontal or vertical splits
 - `prefix r` will source the file to directly apply any changes that are done to the config files
 
+##### Copy stuff from tmux terminals
 
+ - `prefix [` to enter copy mode.
+ - This will put your cursor where you can move around freely
+ - Now start copying with `Ctrl space` and move around to copy, shown by highlighted text
+ - `Ctrl w` to stop copying
+ - `prefix ]` to paste the thing you have copied.
