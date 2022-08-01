@@ -69,3 +69,5 @@ This file doesnt exist be default and needs to be creted to add cofigs
  - Now start copying with `Ctrl space` and move around to copy, shown by highlighted text
  - `Ctrl w` to stop copying
  - `prefix ]` to paste the thing you have copied.
+
+ > Holding down `Shft` and selecting text seems to be able to copy to thhe systems clipboard, Then I can use `Ctrl Shft v` to paste stuff outside tmux.
