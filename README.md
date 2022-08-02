@@ -27,6 +27,7 @@ Sections of a window.
 
 `*` would represent the window we are currenly in.
 
+> `prefix #` where # is the number of the window, used to switch between windows
 
 -`prefix &` closes the current window
 -`prefix ,` to rename the current window
